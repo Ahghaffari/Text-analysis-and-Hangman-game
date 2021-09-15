@@ -11,4 +11,4 @@ By running this script you can see some preprocessings in output:
 - What is the distribution of sentence length? 
 - a table with basic descriptive statistics: corpus size; tagset size; maximum, minimum and mean sentence length.
 ## Hangman
-In this game you are supposed to guess sentence by guessing the words of it. The user can ask for up to 3 hints for each word. you can ask for a hint by typping "?" end pressing enter. 
+In this game you are supposed to guess sentence by guessing the words of it. The user can ask for up to 3 hints for each word. you can ask for a hint by typping "?" end pressing enter. play and have fun! 
